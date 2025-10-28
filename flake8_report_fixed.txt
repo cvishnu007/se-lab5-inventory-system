@@ -1,0 +1,23 @@
+inventory_system_fixed.py:9:80: E501 line too long (83 > 79 characters)
+inventory_system_fixed.py:10:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:20:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:28:13: E261 at least two spaces before inline comment
+inventory_system_fixed.py:31:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:35:17: E261 at least two spaces before inline comment
+inventory_system_fixed.py:38:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:41:53: E261 at least two spaces before inline comment
+inventory_system_fixed.py:49:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:51:49: E261 at least two spaces before inline comment
+inventory_system_fixed.py:52:50: E261 at least two spaces before inline comment
+inventory_system_fixed.py:52:80: E501 line too long (82 > 79 characters)
+inventory_system_fixed.py:55:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:62:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:69:1: E302 expected 2 blank lines, found 1
+inventory_system_fixed.py:70:16: E261 at least two spaces before inline comment
+inventory_system_fixed.py:73:1: W293 blank line contains whitespace
+inventory_system_fixed.py:76:29: W291 trailing whitespace
+inventory_system_fixed.py:81:29: E261 at least two spaces before inline comment
+inventory_system_fixed.py:84:1: W293 blank line contains whitespace
+inventory_system_fixed.py:87:1: W293 blank line contains whitespace
+inventory_system_fixed.py:92:1: E305 expected 2 blank lines after class or function definition, found 1
+inventory_system_fixed.py:93:11: W292 no newline at end of file
