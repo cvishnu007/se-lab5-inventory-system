@@ -1,21 +1,6 @@
 ************* Module inventory_system_fixed
-inventory_system_fixed.py:73:0: C0303: Trailing whitespace (trailing-whitespace)
-inventory_system_fixed.py:76:28: C0303: Trailing whitespace (trailing-whitespace)
-inventory_system_fixed.py:84:0: C0303: Trailing whitespace (trailing-whitespace)
-inventory_system_fixed.py:87:0: C0303: Trailing whitespace (trailing-whitespace)
-inventory_system_fixed.py:93:0: C0304: Final newline missing (missing-final-newline)
-inventory_system_fixed.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-inventory_system_fixed.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:20:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:28:8: W0107: Unnecessary pass statement (unnecessary-pass)
-inventory_system_fixed.py:31:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:38:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:42:12: W0603: Using the global statement (global-statement)
-inventory_system_fixed.py:49:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:55:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:62:0: C0116: Missing function or method docstring (missing-function-docstring)
-inventory_system_fixed.py:69:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory_system_fixed.py:148:0: C0304: Final newline missing (missing-final-newline)
 
------------------------------------
-Your code has been rated at 7.42/10
+------------------------------------------------------------------
+Your code has been rated at 9.84/10 (previous run: 7.42/10, +2.42)
 
